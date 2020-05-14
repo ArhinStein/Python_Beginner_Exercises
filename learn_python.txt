@@ -1,0 +1,6 @@
+Python is a great platform to do alot of stuff.
+Python contains alot of libraries.
+Python is great for Data Analysis.
+Python can be used to create games.
+Python can be used to create web applications.
+I love to code in Python Programming Language.
